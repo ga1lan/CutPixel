@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=cutbootanimationpixel4xl
+name=CutPixel
+version=beta0.1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=ga1lan
+description= Changes boot animation systemlessly!
